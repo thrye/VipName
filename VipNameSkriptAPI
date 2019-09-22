@@ -1,0 +1,6 @@
+if {vipname.chenghao.%player%} is "无":
+if {vipname.chenghao.%player%} is not "无":
+if {vipname.chenghao.%victim%} is "无":
+if {vipname.chenghao.%attacker%} is "无":
+if {vipname.chenghao.%victim%} is not "无":
+if {vipname}.chenghao.%attacker%} is not "无":
